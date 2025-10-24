@@ -1,0 +1,13 @@
+#+TITLE: org.emacs.eu
+#+NICK: jbe
+#+DESCRIPTION: Trying this out for a bit, we'll see how it goes I guess...
+
+* Posts
+**
+:PROPERTIES:
+:ID: 2025-10-24T12:00:00+0100
+:END:
+
+Just a test post, I'm sure there are a lot of those going
+around. Anyway, I've had this domain name for a while now and maybe it
+is time to do something emacs related with it...
